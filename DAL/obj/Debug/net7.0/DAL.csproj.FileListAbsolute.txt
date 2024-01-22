@@ -1,0 +1,42 @@
+D:\Officials\Google_OAuthWebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\Officials\Google_OAuthWebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\Officials\Google_OAuthWebApi\DAL\bin\Debug\net7.0\DAL.dll
+D:\Officials\Google_OAuthWebApi\DAL\bin\Debug\net7.0\DAL.pdb
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.dll
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.pdb
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\Officials\Google_OAuthWebApi\DAL\bin\Debug\net7.0\Common.dll
+D:\Officials\Google_OAuthWebApi\DAL\bin\Debug\net7.0\Common.pdb
+D:\Officials\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\bin\Debug\net7.0\DAL.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\bin\Debug\net7.0\DAL.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\bin\Debug\net7.0\Common.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\bin\Debug\net7.0\Common.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\DAL\obj\Debug\net7.0\DAL.pdb

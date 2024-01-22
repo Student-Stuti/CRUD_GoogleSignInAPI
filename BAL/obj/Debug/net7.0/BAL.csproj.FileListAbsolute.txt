@@ -1,0 +1,57 @@
+D:\Officials\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.deps.json
+D:\Officials\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.runtimeconfig.json
+D:\Officials\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.dll
+D:\Officials\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.pdb
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.csproj.AssemblyReference.cache
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.AssemblyInfoInputs.cache
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.AssemblyInfo.cs
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.csproj.CoreCompileInputs.cache
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.dll
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\refint\BAL.dll
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.pdb
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.genruntimeconfig.cache
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\ref\BAL.dll
+D:\Officials\Google_OAuthWebApi\BAL\bin\Debug\net7.0\Common.dll
+D:\Officials\Google_OAuthWebApi\BAL\bin\Debug\net7.0\DAL.dll
+D:\Officials\Google_OAuthWebApi\BAL\bin\Debug\net7.0\Common.pdb
+D:\Officials\Google_OAuthWebApi\BAL\bin\Debug\net7.0\DAL.pdb
+D:\Officials\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.csproj.CopyComplete
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.deps.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.runtimeconfig.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\Common.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\DAL.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\Common.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\DAL.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.csproj.AssemblyReference.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.AssemblyInfoInputs.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.AssemblyInfo.cs
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.csproj.CoreCompileInputs.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.csproj.CopyComplete
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\refint\BAL.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.genruntimeconfig.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\ref\BAL.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.deps.json
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.runtimeconfig.json
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\BAL.pdb
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\Common.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\DAL.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\Common.pdb
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.AssemblyInfo.cs
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.csproj.CopyComplete
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\refint\BAL.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.pdb
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\BAL.genruntimeconfig.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\BAL\obj\Debug\net7.0\ref\BAL.dll

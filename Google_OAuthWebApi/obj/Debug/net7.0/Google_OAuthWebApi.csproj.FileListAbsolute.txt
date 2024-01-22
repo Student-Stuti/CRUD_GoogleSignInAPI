@@ -1,0 +1,208 @@
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\appsettings.json
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google_OAuthWebApi.exe
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google_OAuthWebApi.deps.json
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google_OAuthWebApi.runtimeconfig.json
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google_OAuthWebApi.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google_OAuthWebApi.pdb
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Humanizer.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\IdentityModel.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\IdentityServer4.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\IdentityServer4.Storage.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\DAL.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\DAL.pdb
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.csproj.AssemblyReference.cache
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.AssemblyInfoInputs.cache
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.AssemblyInfo.cs
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.csproj.CoreCompileInputs.cache
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets\msbuild.Google_OAuthWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Google_OAuthWebApi.props
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Google_OAuthWebApi.props
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Google_OAuthWebApi.props
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\scopedcss\bundle\Google_OAuthWebApi.styles.css
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.csproj.CopyComplete
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\refint\Google_OAuthWebApi.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.pdb
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.genruntimeconfig.cache
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\ref\Google_OAuthWebApi.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\BAL.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Common.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\BAL.pdb
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Common.pdb
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google.Apis.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google.Apis.Auth.PlatformServices.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google.Apis.Auth.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google.Apis.Core.dll
+D:\Officials\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\appsettings.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google_OAuthWebApi.exe
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google_OAuthWebApi.deps.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google_OAuthWebApi.runtimeconfig.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google_OAuthWebApi.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google_OAuthWebApi.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google.Apis.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google.Apis.Auth.PlatformServices.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google.Apis.Auth.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Google.Apis.Core.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Humanizer.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\IdentityModel.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\IdentityServer4.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\IdentityServer4.Storage.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\BAL.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Common.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\DAL.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\BAL.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\DAL.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\bin\Debug\net7.0\Common.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.csproj.AssemblyReference.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.AssemblyInfoInputs.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.AssemblyInfo.cs
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.csproj.CoreCompileInputs.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets\msbuild.Google_OAuthWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Google_OAuthWebApi.props
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Google_OAuthWebApi.props
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Google_OAuthWebApi.props
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\scopedcss\bundle\Google_OAuthWebApi.styles.css
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.csproj.CopyComplete
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\refint\Google_OAuthWebApi.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.genruntimeconfig.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\ref\Google_OAuthWebApi.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.AssemblyInfo.cs
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\refint\Google_OAuthWebApi.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Google_OAuthWebApi\obj\Debug\net7.0\Google_OAuthWebApi.pdb

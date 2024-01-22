@@ -1,0 +1,42 @@
+D:\Officials\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.deps.json
+D:\Officials\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.runtimeconfig.json
+D:\Officials\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.dll
+D:\Officials\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.pdb
+D:\Officials\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+D:\Officials\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Officials\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\Officials\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\Officials\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\Officials\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.dll
+D:\Officials\Google_OAuthWebApi\Common\obj\Debug\net7.0\refint\Common.dll
+D:\Officials\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.pdb
+D:\Officials\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
+D:\Officials\Google_OAuthWebApi\Common\obj\Debug\net7.0\ref\Common.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.deps.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.runtimeconfig.json
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\refint\Common.dll
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.pdb
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
+D:\Officials\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\ref\Common.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.deps.json
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.runtimeconfig.json
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\bin\Debug\net7.0\Common.pdb
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\refint\Common.dll
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.pdb
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
+C:\Users\hp\Downloads\Google Authentication projecttt\Google Authentication\Google_OAuthWebApi\Common\obj\Debug\net7.0\ref\Common.dll

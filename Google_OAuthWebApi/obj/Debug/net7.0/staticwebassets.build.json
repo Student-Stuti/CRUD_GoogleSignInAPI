@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3Q5y5+GrG6wuTfOgq1AnohEvSXhlAK1Oqb0pfhqf9bs=",
+  "Source": "Google_OAuthWebApi",
+  "BasePath": "_content/Google_OAuthWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
